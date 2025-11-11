@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\erdUha\Desktop\erduha\vulkan\build\windows\CMakeFiles\80c37b570032d27f78ec20c4f9f48282\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AD12487B-177C-390D-B9C5-53E44301361F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

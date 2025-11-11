@@ -1,0 +1,3 @@
+C:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles/build/windows/CMakeFiles/embedFiles.dir
+C:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles/build/windows/CMakeFiles/ZERO_CHECK.dir

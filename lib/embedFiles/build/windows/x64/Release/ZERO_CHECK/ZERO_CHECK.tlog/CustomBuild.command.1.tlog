@@ -1,0 +1,10 @@
+^C:\USERS\ERDUHA\DESKTOP\ERDUHA\VULKAN\LIB\EMBEDFILES\BUILD\WINDOWS\CMAKEFILES\FCD62AAE877FD63D22BCED8CAE6CA7AC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles -BC:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/erdUha/Desktop/erduha/vulkan/lib/embedFiles/build/windows/embedFiles.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

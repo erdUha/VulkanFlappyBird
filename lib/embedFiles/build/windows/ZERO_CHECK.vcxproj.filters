@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\erdUha\Desktop\erduha\vulkan\lib\embedFiles\build\windows\CMakeFiles\fcd62aae877fd63d22bced8cae6ca7ac\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{89097347-257A-31D2-8999-64ACC5011E84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

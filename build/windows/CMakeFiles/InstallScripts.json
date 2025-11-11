@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/erdUha/Desktop/erduha/vulkan/build/windows/cmake_install.cmake",
+		"C:/Users/erdUha/Desktop/erduha/vulkan/build/windows/lib/glfw-3.4/cmake_install.cmake",
+		"C:/Users/erdUha/Desktop/erduha/vulkan/build/windows/lib/glfw-3.4/src/cmake_install.cmake",
+		"C:/Users/erdUha/Desktop/erduha/vulkan/build/windows/lib/glfw-3.4/docs/cmake_install.cmake",
+		"C:/Users/erdUha/Desktop/erduha/vulkan/build/windows/lib/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
