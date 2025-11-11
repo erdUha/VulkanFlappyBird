@@ -9,3 +9,6 @@ On the first build run clearCache.sh or clearCache.ps1
 
 To build the project:
  - run "build.sh" or "build.ps1" script
+
+
+Video demo: https://www.youtube.com/watch?v=0XycRK0-B0o
